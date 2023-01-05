@@ -2,67 +2,9 @@
 https://github.com/googlesamples/assistant-sdk-python/tree/master/google-assistant-sdk
 https://github.com/shivasiddharth/GassistPi
  
-Với sự đóng góp các thành viên mù code và tester đam mê phá nhà, nghèo vì độ loa sẽ update trong contributer sau :D
-
-1 số bạn có nhã ý donate cho nhóm.mình xin ghi nhận tấm lòng.cũng là 1 phần các bạn đã kích lệ cho anh em tìm tòi và nghiên cứu thêm các thứ mới.
-Nhất là phần cứng all in all anh em đang ấp ủ.
-
-Momo: 0935300314 lâm.
-Xin ghi rõ nội dung ủng hộ nhóm vipi.
- Tất cả thông tin donate đều cập nhập lên git.
-## DONATE: 
-Danh sách các bạn đã ủng hộ.cập nhập đến 09.07.2021.
-
-Dù ít hay nhiều chúng tôi đều trân trọng tấm lòng của các bạn như nhau.
-
-1 - Khuê: 50.000đ
-
-2 - Tiến: 500.000đ
-
-3 - T.Quang: 100.000đ
-
-4 - M.Quang: 200.000đ
-
-5 - T.Nguyên: 2.000.000đ
-
-6 - D.Hai : 50.000đ
-
-7 - T.An: 100.000đ
-
-8 - T.Đạt: 100.000đ
-
-9 - V.Dũng: 100.000đ
-
-Tc: 3.200.000đ
-
-Vì anh em chúng tôi làm nhóm nên tất cả đều công khai minh bạch.😍😍😍😍😍
-
-Donate chúng tôi ko hề bắt buộc.
-
-Kinh phí này nhóm sẽ dùng cho việc phát triển phần cứng all in one.
-
-xin chân thành cảm ơn.
-## PHÁT TRIỂN CODE :
-Người mò mẫm đầu tiên [longhd2](https://github.com/longhd2)
-
-Coder 3h Youtube [canghp128](https://github.com/canghp128)
-
-Coder ẩn dật [HungDoManh](https://github.com/HungDoManh)
-
-Copy & paste [thangnd85](https://github.com/thangnd85)
-
-Phá Hoại Bày Vẽ [lamthientieu](https://github.com/lamthientieu)
-
-Chuyên gia âm thanh, độ chế tay nghề cao [Đại Ca SƠN - PHÚ QUỐC]
-
-Sharktank [tuanto90](https://github.com/tuanto90)
-
-Tester nghiệp dư [tienhuansk](https://github.com/tienhuansk)
 
 
-Đây là dự án miễn phí, phục vụ cá nhân khi rảnh rỗi, không phải dev chuyên nghiệp. 
 
-Anh em muốn tham gia vào đội coder thì cứ inbox [Nhóm test code](https://t.me/vipi_code)
 
 ### UPDATE: 25/07/2022:
 _Có gì mới trong img này:_
@@ -88,8 +30,6 @@ Gắn thẻ vào raspi đợi 1-2 phút, kết nối với mạng WiFi được 
 
 Sau đó kết nối với mạng WIFI đang sử dụng
 ![image](https://user-images.githubusercontent.com/57694952/177024665-f17a300c-862f-4b39-96dc-550163f5449b.png)
-
-
 
 
 
