@@ -17,7 +17,6 @@ _Có gì mới trong img này:_
 
 ## Nào hãy bắt đầu vào việc chính! 
 
-R
 ## Bước 1: Tải IMG cho raspi tại đây, IMG mặc định cho Raspberry Pi Zero 2 W và hoàn toàn tương thích với / Pi 3/ 3B+ trở lên:
 ```sh
 https://vipiteam.page.link/img
